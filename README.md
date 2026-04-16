@@ -50,4 +50,4 @@ Exploring →  Deep Learning • Data Science
 ___
 
 📬 connect with me →  
-[🔗 LinkedIn](https://linkedin.com/in/dirgha-dutta)   • [📧 Email](dirgha1609@gmail.com)
+[🔗 LinkedIn](https://www.linkedin.com/in/dirgha-dutta-a96365293/)   • <a href="mailto:dirgha1609@gmail.com">Email</a>
