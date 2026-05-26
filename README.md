@@ -33,7 +33,8 @@ ___
 
 ♻️ [Campus Waste](https://github.com/mishti127/Campus-waste) — classify waste and guide proper disposal — promoting sustainable habits 
 
-💎 [shopora](https://github.com/mishti127/Shopora) — jewelry e-commerce platform — complete shopping with cart & wishlist
+💎 [Rag-chatbot](https://github.com/mishti127/Rag-chatbot.git) —A Vectorless RAG Chatbot is an AI assistant that provides accurate document-based responses without using vector databases. It includes Speech-to-Text (STT), Text-to-Speech (TTS), document querying, and smart interactive functions for a smooth conversational experience.
+
 
 ___
 
