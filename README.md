@@ -22,7 +22,9 @@ ___
 💻 languages — Python • Java • C  • SQL  
 🌐 web — HTML • CSS • JavaScript  
 ⚛️ frontend — React • UI/UX Principles  
-🔧 tools — Git • VS Code • Figma  
+🔧 tools — Git • VS Code • Figma • cursor • claude code
+🤖 chatbot — RAG • LLM Integration • STT • TTS  
+📄 AI features — Document Querying • Context Retrieval • Voice Interaction
 
 ___
 
