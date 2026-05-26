@@ -9,7 +9,7 @@ ___
 
 🎨 UI/UX design & user experience — creating intuitive and visually clean user experiences  
 ⚙️ problem solving & system thinking — simplifying complex problems into structured solutions  
-🤖 AI development & machine learning — exploring models, APIs, and real-world applications  
+🤖 AI development & machine learning — exploring models, APIs, and real-world applications, chatbots  
 🌐 fullstack development — connecting frontend + backend into working systems  
 📊 data analysis & visualization — discovering insights and visualizing meaningful patterns  
 ✍️ prompt engineering — improving how we interact with AI effectively  
@@ -23,6 +23,7 @@ ___
 🌐 web — HTML • CSS • JavaScript  
 ⚛️ frontend — React • UI/UX Principles  
 🔧 tools — Git • VS Code • Figma • cursor • claude code
+
 🤖 chatbot — RAG • LLM Integration • STT • TTS  
 📄 AI features — Document Querying • Context Retrieval • Voice Interaction
 
